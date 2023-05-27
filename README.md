@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luana Caroline 🖐️
 
 Here are some ideas to get you started:
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=luanasantana80&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
