@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Luana Caroline 🖐️
 
-Aqui estão algumas ideias para você começar:
 ![Luana GitHub status](https://github-readme-stats.vercel.app/api?username=luanasantana80&show_icons=true&theme=radical)
 -->
 ## Tecnologias que eu uso no meu dia
