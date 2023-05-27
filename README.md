@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Luana Caroline 🖐️
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-santana-630621199/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCojhm8hoc89cyty2SEFDlow)
 ![Luana GitHub status](https://github-readme-stats.vercel.app/api?username=luanasantana80&show_icons=true&theme=radical)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanasantana80&hide_progress=true)
@@ -22,4 +23,4 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e analise de dados.
