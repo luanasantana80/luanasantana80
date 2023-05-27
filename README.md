@@ -2,7 +2,7 @@
 
 ![Luana GitHub status](https://github-readme-stats.vercel.app/api?username=luanasantana80&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanasantana80&hide_progress=true)](https://github.com/luanasantana80/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanasantana80&hide_progress=true)]
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
