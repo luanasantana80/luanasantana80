@@ -24,4 +24,4 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e analise de dados.
+Formada em Analise e Desenvolvimento de Sistemas, buscando constantes aprendizagens 3 anos de conhecimentos adquiridos tanto CLT como de forma Autônoma.
